@@ -1,0 +1,25 @@
+// Ckeditor
+.ck.ck-editor{
+	.ck.ck-button{
+		padding: 6px 8px;
+		background-color: var(--rgba-primary-1);
+		color: var(--primary);
+		font-weight: 900;
+	}
+	.ck.ck-toolbar{
+		background-color: #f7f7f7;
+		border: 0;
+		padding: 5px 10px;
+	}
+	.ck.ck-toolbar__separator{
+		display: none;
+	}
+	.ck-content{
+		background-color: #f7f7f7;
+		border-width: 1px 0 0;
+		border-color: #e7e5ef;
+	}
+}
+.ck-editor__editable{
+	background-color:#f7f7f7!important;	
+}

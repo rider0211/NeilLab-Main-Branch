@@ -1,0 +1,19 @@
+.media{
+    &.style-1{
+		img{
+			width: 10%;
+			border-radius: 5px;
+		}
+		.icon-name{
+			height: 3.125rem;
+			width: 3.125rem;
+			line-height: 3.125rem;
+			text-align: center;
+			min-width: 3.125rem;
+			font-weight: 600;
+			font-size: 1.25rem;
+			text-transform: capitalize;
+			border-radius: 0.35rem;
+		}
+	}
+}

@@ -1,0 +1,12 @@
+.dataTables_processing {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 250px;
+    margin-left: -125px;
+    text-align: center;
+    color: #999 !important;
+    background: none !important;
+    font-size: 11px;
+    padding: 2px 0;
+}
